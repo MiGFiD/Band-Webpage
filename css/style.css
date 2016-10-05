@@ -1,11 +1,17 @@
-#theCarousel .item { height: 400px;}
+#theCarousel .item { height:944px; }
 
 #slide1{
-  background: url('http://placehold.it/1200x500') top left no-repeat;
+  background: url('../../MiguelFidelinoNudePictures/ReizedMiami_Beach.jpg') center;
+  background-size:100%;
 }
 #slide2{
-  background: url('http://placehold.it/1200x500') top left no-repeat;
+  background: url('../../MiguelFidelinoNudePictures/NYstreets.jpg') center;
+  background-size: 100%;
+  max-width:100%;
+  height: auto;
 }
 #slide3{
-  background: url('http://placehold.it/1200x500') top left no-repeat;
+  background: url('../../MiguelFidelinoNudePictures/Streets.jpg') center;
+  background-size:100%;
+  max-width:100%;
 }
