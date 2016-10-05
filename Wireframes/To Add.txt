@@ -1,0 +1,2 @@
+- can add twitter, instagram, facebook, myspace widgets
+- Should I add in a toolbar?

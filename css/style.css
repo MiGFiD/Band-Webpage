@@ -1,0 +1,11 @@
+#theCarousel .item { height: 400px;}
+
+#slide1{
+  background: url('http://placehold.it/1200x500') top left no-repeat;
+}
+#slide2{
+  background: url('http://placehold.it/1200x500') top left no-repeat;
+}
+#slide3{
+  background: url('http://placehold.it/1200x500') top left no-repeat;
+}
