@@ -352,7 +352,7 @@ if (typeof jQuery === 'undefined') {
   }
 
   Carousel.prototype.cycle = function (e) {
-    e || (this.paused = true)
+    e || (this.paused = false)
 
     this.interval && clearInterval(this.interval)
 
