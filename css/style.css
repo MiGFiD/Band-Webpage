@@ -46,3 +46,8 @@
   opacity: .8;
   padding-top:2%;
 }
+
+#navbar a:hover{
+  border-style:solid;
+  border-width:1px;
+}
