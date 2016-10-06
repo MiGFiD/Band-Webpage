@@ -1,17 +1,24 @@
-#theCarousel .item { height:944px; }
+#theCarousel .item { height:659px; width:100%;}
 
 #slide1{
   background: url('../../MiguelFidelinoNudePictures/ReizedMiami_Beach.jpg') center;
   background-size:100%;
+  background-repeat: no-repeat;
+ 
 }
 #slide2{
   background: url('../../MiguelFidelinoNudePictures/NYstreets.jpg') center;
   background-size: 100%;
   max-width:100%;
+  width:100%;
   height: auto;
+  background-repeat: no-repeat;
+ 
 }
 #slide3{
   background: url('../../MiguelFidelinoNudePictures/Streets.jpg') center;
   background-size:100%;
   max-width:100%;
+  background-repeat: no-repeat;
+ 
 }
