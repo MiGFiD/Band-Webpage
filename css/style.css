@@ -41,3 +41,8 @@
 .carouselContainer h1 p{
   opacity: 1;
 }
+
+#navbar {
+  opacity: .8;
+  padding-top:2%;
+}
