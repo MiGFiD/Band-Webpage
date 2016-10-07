@@ -1,5 +1,6 @@
-#theCarousel .item { height:659px; width:100%;}
-
+#theCarouselLg .item { height:944px; width:100%;}
+#theCarouselmd .item { height:662px; width:100%;}
+#theCarouselsm .item { height:544px; width:100%;}
 #slide1{
   background: url('../../MiguelFidelinoNudePictures/ReizedMiami_Beach.jpg') center;
   background-size:100%;
